@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sdd:war">
+    <output-path>$PROJECT_DIR$/sdd/target</output-path>
+    <root id="archive" name="sdd.war">
+      <element id="artifact" artifact-name="sdd:war exploded" />
+    </root>
+  </artifact>
+</component>
