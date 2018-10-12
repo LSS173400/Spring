@@ -1,4 +1,4 @@
-package java.cap.test;
+package cap.test;
 
 import cap.service.HelloWorld;
 import cap.service.impl.HelloWorldImpl;
@@ -14,9 +14,6 @@ public class HelloWorldTest {
         System.out.println(helloWorld.sayHi("lss"));
     }
 
-    @Test
-    public void testSayHi2() {
-        HelloWorld helloWorld = new HelloWorldImpl();
-        System.out.println(helloWorld.sayHi("lss1"));
+
     }
-}
+
