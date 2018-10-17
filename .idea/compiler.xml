@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring2" />
-        <module name="spring3" />
+        <module name="spring4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +16,7 @@
       <module name="spring1" target="1.7" />
       <module name="spring2" target="1.7" />
       <module name="spring3" target="1.7" />
+      <module name="spring4" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

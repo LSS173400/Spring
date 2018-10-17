@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring1/spring1.iml" filepath="$PROJECT_DIR$/spring1/spring1.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring2/spring2.iml" filepath="$PROJECT_DIR$/spring2/spring2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring3/spring3.iml" filepath="$PROJECT_DIR$/spring3/spring3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4/spring4.iml" filepath="$PROJECT_DIR$/spring4/spring4.iml" />
     </modules>
   </component>
 </project>
