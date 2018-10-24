@@ -9,7 +9,7 @@
         <module name="spring2" />
         <module name="spring4" />
         <module name="spring4x1" />
-        <module name="spring6" />
+        <module name="spring6x1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +21,7 @@
       <module name="spring4" target="1.7" />
       <module name="spring4x1" target="1.7" />
       <module name="spring6" target="1.7" />
+      <module name="spring6x1" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
