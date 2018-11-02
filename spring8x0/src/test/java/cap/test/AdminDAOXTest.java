@@ -1,7 +1,7 @@
 package cap.test;
 
 import cap.bean.Admin;
-import cap.bean.cap.dao.AdminDAO;
+import cap.dao.AdminDAO;
 import org.junit.Before;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
