@@ -1,4 +1,4 @@
-package cap.bean.cap.dao;
+package cap.dao;
 
 import cap.bean.Admin;
 
