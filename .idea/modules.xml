@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring7/spring7.iml" filepath="$PROJECT_DIR$/spring7/spring7.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring8x0/spring8x0.iml" filepath="$PROJECT_DIR$/spring8x0/spring8x0.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring8x1/spring8x1.iml" filepath="$PROJECT_DIR$/spring8x1/spring8x1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring8x2/spring8x2.iml" filepath="$PROJECT_DIR$/spring8x2/spring8x2.iml" />
     </modules>
   </component>
 </project>
