@@ -45,8 +45,8 @@ public class AdminDAOXImpl extends JdbcDaoSupport implements AdminDAO {
 
     @Override
     public int addAdmin(Admin admin) {
-        String sql = "insert into admin(username,password) values(?,?)";
-        return getJdbcTemplate().update(sql, new Object[]{admin.getUsername(), admin.getPassword()});
+        String sql = "insert into admin(id,username,password) values(?,?)";
+        return getJdbcTemplate().update(sql, new Object[]{admin.getId(),admin.getUsername(), admin.getPassword()});
     }
 
     @Override
